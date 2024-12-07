@@ -10,10 +10,7 @@ Since 2018 ✅. I've working with ***Laravel***, ***PHP***, ***CakePHP***, ***Sp
 
 ######
 
-<details>
-<summary>Skill Set 💡</summary>
-<div align="center">
-    
+## Skill Set 💡
 | Language | `PHP` `Java` `Python` `JavaScript` `Dart` `Bash` |
 | :- | :- |
 | Mobile | `Flutter` |
@@ -22,10 +19,6 @@ Since 2018 ✅. I've working with ***Laravel***, ***PHP***, ***CakePHP***, ***Sp
 | Web | `HTML5` `Javascript` `AngularJS` `CSS3` |
 | Database | `SQLite` `PostgreSQL` `MySQL` |
 | Others | `Redis` `Docker` `Supervisor` |
-
-</div>
-
-</details>
 
 ## GitHub Stats
 | Streak Stats                                                                 | Top Languages                                                              |
