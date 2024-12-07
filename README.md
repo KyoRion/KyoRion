@@ -53,21 +53,21 @@ Since 2018 ✅. I've working with ***Laravel***, ***PHP***, ***CakePHP***, ***Sp
 
   <!-- GMAIL -->
   <a href="mailto:hangkhoa2611@gmail.com" title="Send Email" style="padding-right: 10px;">
-    <img src="assets/logo/Gmail.png" width="45" alt="Email" />
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="45" alt="Email" />
   </a>
 
   <!-- LINKEDIN -->
   <a href="https://www.linkedin.com/in/h%E1%BA%A1ng-khoa-374755169/" title="Redirect to LinkedIn" style="padding-right: 10px;">
-    <img src="assets/logo/LinkedIn.png" width="45" alt="LinkedIn" />
+    <img src="https://static.licdn.com/aero-v1/sc/h/5bukxbhy9xsil5mb7c2wulfbx" width="45" alt="LinkedIn" />
   </a>
   
   <!-- FACEBOOK -->
   <a href="https://www.facebook.com/khoahang2611/" title="Redirect to Facebook" style="padding-right: 10px;">
-    <img src="assets/logo/Facebook.png" width="45" alt="Facebook" />
+    <img src="https://static.xx.fbcdn.net/rsrc.php/yT/r/aGT3gskzWBf.ico" width="45" alt="Facebook" />
   </a>
 
   <!-- TELEGRAM -->
   <a href="https://t.me/kyorion" title="Redirect to Telegram" style="padding-right: 10px;">
-    <img src="assets/logo/Telegram.png" width="45" alt="Telegram" />
+    <img src="https://telegram.org/img/t_logo_2x.png" width="45" alt="Telegram" />
   </a>
 </div>
