@@ -2,8 +2,9 @@
 
 <div align="start">
  
-## Hi👋, I'm `Dang Khoa Hang`
-A Fullstack Developer since 2018 ✅. I've working with ***Laravel***, ***PHP***, ***CakePHP***, ***Spring Boot***, ***Flutter*** and many other technologies 💻
+## Hi👋, I'm Khoa (Kyo)
+## Fullstack Developer
+Since 2018 ✅. I've working with ***Laravel***, ***PHP***, ***CakePHP***, ***Spring Boot***, ***Flutter*** and many other technologies 💻
 
 </div>
 
@@ -26,18 +27,11 @@ A Fullstack Developer since 2018 ✅. I've working with ***Laravel***, ***PHP***
 
 </details>
 
+## GitHub Stats
+| Streak Stats                                                                 | Top Languages                                                              |
+|------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| <a href="http://www.github.com/KyoRion"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KyoRion&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> | <a href="https://github.com/KyoRion"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyoRion&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> |
 
-
-<details>
-    <summary>Github Stats</summary>
-    <p align="center">
-        <img 
-            src="https://github-readme-stats.vercel.app/api?username=KyoRion&count_private=true&show_icons=true&include_all_commits=true" 
-            alt="Tri Do | Stats" 
-        />
-    </p>
-
-</details>
 
 ## What I'm doing now ? 👀
 
@@ -46,6 +40,12 @@ A Fullstack Developer since 2018 ✅. I've working with ***Laravel***, ***PHP***
 - 🔥 Diving in `software architectures`, `system design` and `LeetCode`
 
 ######
+
+## Current work project
+<a href="https://miniapp.vn/" target="_blank" rel="noreferrer"><img src="https://miniapp.vn/wp-content/uploads/2023/11/web-logo.png"  alt="MiniApp.VN" /></a>
+
+## Previous project
+<a href="https://octokit.co/" target="_blank" rel="noreferrer"><img src="https://octokit.co/assets/images/logo.png"  alt="Octokit | Easy Game Maker - Make a Game and AR Filter for Marketing campaigns - Gamification Marketing" /></a><br /><br />
 
 ## Reach me via 👇
 
