@@ -23,9 +23,9 @@ Since 2018 ✅. I've working with ***Laravel***, ***PHP***, ***CakePHP***, ***Sp
 
 ## Combined Skill Set and GitHub Stats 💡
 
-| Skill Set                         | GitHub Stats                                       | Top Languages                                      |
-|-----------------------------------|----------------------------------------------------|----------------------------------------------------|
-| **Language**: `PHP`, `Java`, `Python`, `JavaScript`, `Dart`, `Bash` <br> **Mobile**: `Flutter` <br> **Backend**: `NodeJs`, `Python`, `PHP` <br> **Framework**: `Laravel`, `Spring boot`, `Angular`, `CakePHP`, `Bootstrap` <br> **Web**: `HTML5`, `Javascript`, `AngularJS`, `CSS3` <br> **Database**: `SQLite`, `PostgreSQL`, `MySQL` <br> **Others**: `Redis`, `Docker`, `Supervisor` | <a href="http://www.github.com/KyoRion"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KyoRion&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> | <a href="https://github.com/KyoRion"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyoRion&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> |
+| Skill Set                         |
+|-----------------------------------|
+| **Language**: `PHP`, `Java`, `Python`, `JavaScript`, `Dart`, `Bash` <br> **Mobile**: `Flutter` <br> **Backend**: `NodeJs`, `Python`, `PHP` <br> **Framework**: `Laravel`, `Spring boot`, `Angular`, `CakePHP`, `Bootstrap` <br> **Web**: `HTML5`, `Javascript`, `AngularJS`, `CSS3` <br> **Database**: `SQLite`, `PostgreSQL`, `MySQL` <br> **Others**: `Redis`, `Docker`, `Supervisor`
 
 ## Projects and Contact Information
 
