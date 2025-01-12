@@ -6,6 +6,9 @@
 ## Fullstack Developer
 Since 2018 ✅. I've working with ***Laravel***, ***PHP***, ***CakePHP***, ***Spring Boot***, ***Flutter*** and many other technologies 💻
 
+## My CV
+[View My CV](./CV_HANDANGKHOA_ENG_2025.pdf)
+
 ## What I'm doing now ? 👀
 
 - 🎨 Contribute to `Open Source` projects
